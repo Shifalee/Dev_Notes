@@ -1,0 +1,35 @@
+1.What is React?
+*React is a UI Library.
+*Develped by Facebook.
+*Used for buildings Single page application.
+
+2.Why React?
+*Declarative UI-handles DOM Manipulations
+*Provides mechanism for automatically refreshing on data updates.
+*Ensures efficient re-rendering.
+*Reusable, composable component-based UI.
+*Shortens development time.
+*Reduces maintenance effort.
+*SSR Support
+*Build mobile native apps using React Native.
+
+3.React Users?
+There are many big brands now using React.
+*Facebook
+*Netflix
+*Airbnb
+
+4.Features of React-
+*composable, Reusable components
+*JSX and a Declarative UI
+*Virtual DOM
+*Performance
+*One way data binding
+*Extensions-React Dev tools
+*Debugging-Helpful errors,source maps
+
+Create React app
+*Tool to Create a React application with basic structure
+*Uses webpack for module bundling
+*Use of ES2015 and JSX os enabled
+*Sets up development,testing and build workflows
